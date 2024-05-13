@@ -1,4 +1,4 @@
 /target
-/src/day1part1.exe
-/src/day1part1.pdb
+/src/*.exe
+/src/*.pdb
 /src/input.txt
